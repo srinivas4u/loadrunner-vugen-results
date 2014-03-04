@@ -1,0 +1,5 @@
+Transation Name	Response Time	Think Time	Wasted Time
+TC_ADS_Drop1_DB_Select_Login_001	0.9181		
+TC_ADS_Drop1_DB_Select_ExecuteStatement_002	5.9924		
+CloseC	0.0814		
+TC_ADS_Drop1_DB_Select_ExitConnection_003	0.0241		
